@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/iamshaunjp/rest-api-playlist#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongoose": "^5.2.15"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "nodemon": "^1.18.4"
   }
 }
